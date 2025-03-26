@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +58,7 @@
 
 <header>
     <h1>Sandra Vadhani R</h1>
-    <p>An Electronics Engineer</p>
+    <p>Madras University </p>
 </header>
 
 <nav>
